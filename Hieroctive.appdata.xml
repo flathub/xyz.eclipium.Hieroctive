@@ -78,5 +78,6 @@ Le jeu est disponible en 5 langues et possède une documentation complète afin 
 </supports>
 <releases>
   <release version="2.0" date="2022-06-13" />
+  <release version="2.1" date="2022-07-19" />
 </releases>
 </component>

@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://launcher.eclipium.xyz/Source/hieroctive-source-2.0.tar.gz",
-                    "sha256": "abcdfb022b1c81c33a10aad5cd951bb0f8cb1fa435a7ae9ab81aa4021843f5fe"
+                    "url": "https://launcher.eclipium.xyz/Source/hieroctive-source-2.1.tar.gz",
+                    "sha256": "59e6f239ad46dccc62b524d8285a24c82fa2d08d178596e672c312f1ffa53d47"
                 },
                 {
                     "type": "file",
